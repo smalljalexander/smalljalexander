@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/smalljalexander/smalljalexander/blob/main/banner.png" alt="banner" />
+ </p>
 <h1 align="center">Hi 👋, I'm Alexander Small</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
