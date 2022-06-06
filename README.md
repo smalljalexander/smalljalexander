@@ -2,6 +2,7 @@
   <img src="https://github.com/smalljalexander/smalljalexander/blob/main/banner.png" alt="banner" />
  </p>
 <h3 align="center">A passionate full stack web developer</h3>
+<p align="center">
 
 <a href="https://github.com/smalljalexander/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=smalljalexander&show_icons=true&theme=radical" />
@@ -9,6 +10,7 @@
 <a href="https://github.com/smalljalexander/convoychat">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smalljalexander&theme=radical" />
 </a>
+  </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
