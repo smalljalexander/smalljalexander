@@ -3,7 +3,8 @@
  </p>
 <h3 align="center">A passionate full stack web developer</h3>
 <p align="center">
-
+<p align="center"> I’m a Software Engineer from Carmel, Indiana building full stack web apps and websites. I love to learn and solve problems each day. I’m hoping to improve peoples and communities lives through technology. </p>
+<
 <a href="https://github.com/smalljalexander/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=smalljalexander&show_icons=true&theme=radical" />
 </a>
